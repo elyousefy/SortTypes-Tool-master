@@ -4,6 +4,6 @@
 
 <p align="center">Welcome to Version 0.2 of SortTypes Tool.</p>
 
-<p align="center"><img width=60% src="https://i.ibb.co/QFGyCWW/1.png"></p>
-<p align="center"><img width=60% src="https://i.ibb.co/K6skFdY/2.png"></p>
-<p align="center"><img width=60% src="https://i.ibb.co/kKL9f48/3.png"></p>
+<p align="center"><img width=100% src="https://i.ibb.co/QFGyCWW/1.png"></p>
+<p align="center"><img width=100% src="https://i.ibb.co/K6skFdY/2.png"></p>
+<p align="center"><img width=100% src="https://i.ibb.co/kKL9f48/3.png"></p>
